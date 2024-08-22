@@ -28,4 +28,10 @@ This project implements a **Tokenized Portfolio** smart contract using the Solan
 - **Governance Tokens**: Issue governance tokens to portfolio holders.
 - **Multi-Signature Withdrawal**: Enable multi-signature approval for asset withdrawals from the portfolio.
 
+  ## Project Structure
+
+- **lib.rs**: Contains all the smart contract logic and instructions for portfolio management.
+- **tests.rs**:Contains detailed integration tests designed to rigorously verify the contract.
+
+
 
