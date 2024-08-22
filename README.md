@@ -18,5 +18,14 @@ This project implements a **Tokenized Portfolio** smart contract using the Solan
 
 - **Apply Management and Performance Fees**: Automatically apply fees based on portfolio performance.
 - - **Dynamic Fees**: Apply dynamic fees that change based on the portfolio's performance thresholds.
+ 
+### Advanced Features
+
+- **Stake Tokens**: Stake tokens into the portfolio’s staking pool and earn rewards.
+- **Distribute Staking Rewards**: Distribute rewards to users based on their staking duration.
+- **Provide Liquidity**: Provide liquidity to decentralized pools with assets from the portfolio.
+- **Flash Loans**: Take out flash loans from the portfolio with repayment required within the same transaction.
+- **Governance Tokens**: Issue governance tokens to portfolio holders.
+- **Multi-Signature Withdrawal**: Enable multi-signature approval for asset withdrawals from the portfolio.
 
 
