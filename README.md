@@ -14,4 +14,8 @@ This project implements a **Tokenized Portfolio** smart contract using the Solan
 - **Rebalance Portfolio**: Automatically rebalance the portfolio based on predefined asset ratios.
 - **Check Risk**: Check if the portfolio violates predefined risk thresholds (min/max value).
 
+  ### Fees
+
+- **Apply Management and Performance Fees**: Automatically apply fees based on portfolio performance.
+
 
