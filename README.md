@@ -6,4 +6,12 @@ This project implements a **Tokenized Portfolio** smart contract using the Solan
 
 ### Core Portfolio Management
 
+- **Initialize Portfolio**: Create a new tokenized portfolio with an owner and default configuration.
+- **Add Asset**: Add a new asset to the portfolio with a specified amount and value.
+- **Transfer Assets**: Transfer assets between token accounts using Solana's Token Program (via CPI).
+- **Update Asset Value**: Manually update the value of an asset or use a decentralized oracle.
+- **Withdraw Assets**: Withdraw assets from the portfolio to external accounts.
+- **Rebalance Portfolio**: Automatically rebalance the portfolio based on predefined asset ratios.
+- **Check Risk**: Check if the portfolio violates predefined risk thresholds (min/max value).
+
 
