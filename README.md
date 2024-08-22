@@ -17,5 +17,6 @@ This project implements a **Tokenized Portfolio** smart contract using the Solan
   ### Fees
 
 - **Apply Management and Performance Fees**: Automatically apply fees based on portfolio performance.
+- - **Dynamic Fees**: Apply dynamic fees that change based on the portfolio's performance thresholds.
 
 
